@@ -1,0 +1,5 @@
+client/build/*
+GateServer/cmake-build-debug-visual-studio/*
+ChatServer/cmake-build-debug-visual-studio/*
+StatusServer/cmake-build-debug-visual-studio/*
+VarifyServer/node_modules/*
